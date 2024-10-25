@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Forma Docs"
-  text: "something something creators"
+  text: "BIGOLE"
   tagline: My great project tagline
   actions:
     - theme: brand
