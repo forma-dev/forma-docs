@@ -23,7 +23,7 @@ export default defineConfig({
         text: 'Learn',
         collapsed: true,
         items: [
-          { text: 'Overview of Forma', link: '/markdown-examples' },
+          { text: 'Overview of Forma', link: '/overview-of-forma' },
           { text: 'Ecosystem', link: '/api-examples' },
         ]
       },
@@ -41,8 +41,8 @@ export default defineConfig({
         text: 'Forma Bridge',
         collapsed: true,
         items: [
-          { text: 'Overview', link: '/bridge/overview' },
-          { text: 'How to Use', link: '/bridge/how-to-use' },
+          { text: 'Overview', link: '/bridge-overview' },
+          { text: 'How to Use', link: '/how-to-use' },
         ]
       },
       {
