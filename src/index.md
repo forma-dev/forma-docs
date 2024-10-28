@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "Forma Docs"
-  text: "something something creators"
-  tagline: My great project tagline
+  name: "Forma"
+  text: "Cultural hub for the modular ecosystem"
+  tagline: Forma is fully EVM compatible and the first soverign rollup built on Astria with Celestia underneath. 
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Quick Start
+      link: /quick-start
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Overview
+      link: /overview
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Get Started
+    details: The basics to get you building on Forma.
+  - title: Forma Overview
+    details: Forma is a EVM compatible layer 2 that enables users to submit transactions cheapily and securily. 
+  - title: Developers
+    details: Create, integrate and build your own project on Forma.
 ---
 

@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   srcDir: 'src',
   title: "Forma Docs",
-  description: "something something creators",
+  description: "Cultural hub for the modular ecosystem",
   appearance: 'force-dark',
   cleanUrls: true,
   themeConfig: {
@@ -16,19 +16,41 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Quick Start', link: '/quick-start' }
     ],
-
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Learn',
+        collapsed: true,
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Overview of Forma', link: '/markdown-examples' },
+          { text: 'Ecosystem', link: '/api-examples' },
         ]
-      }
+      },
+      {
+        text: 'Build on Forma',
+        collapsed: true,
+        items: [
+          { text: 'Getting Started', link: '/build/getting-started' },
+          { text: 'Deployment', link: '/build/deployment' },
+          { text: 'Integration', link: '/build/integration' },
+          { text: 'Tutorials', link: '/api-examples' },
+        ]
+      },
+      {
+        text: 'Forma Bridge',
+        collapsed: true,
+        items: [
+          { text: 'Overview', link: '/bridge/overview' },
+          { text: 'How to Use', link: '/bridge/how-to-use' },
+        ]
+      },
+      {
+        items: [
+          { text: 'FAQ', link: '/build/getting-started' },
+        ]
+      },
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
