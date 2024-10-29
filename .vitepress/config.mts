@@ -31,7 +31,7 @@ export default defineConfig({
         text: 'Build on Forma',
         collapsed: true,
         items: [
-          { text: 'Getting Started', link: '/build/getting-started' },
+          { text: 'Getting Started', link: '/getting-started' },
           { text: 'Deployment', link: '/build/deployment' },
           { text: 'Integration', link: '/build/integration' },
           { text: 'Tutorials', link: '/api-examples' },
