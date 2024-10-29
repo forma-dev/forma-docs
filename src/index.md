@@ -16,13 +16,13 @@ hero:
 
 features:
   - title: Overview
-    details: The basics to get you building on Forma.
+    details: The basics to get you using Forma.
     link: /learn/overview-of-forma
   - title: Developers
     details: Create, integrate and build your own project on Forma.
     link: /build/getting-started
   - title: Bridge
-    details: One-click bridge TIA from Celestia Mainnet to Forma.
+    details: One-click bridge TIA between Celestia Mainnet and Forma.
     link: /bridge/bridge-overview
   - title: FAQ
     details: Our most commonly asked questions and answers.
