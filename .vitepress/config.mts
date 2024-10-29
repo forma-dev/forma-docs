@@ -25,8 +25,6 @@ export default defineConfig({
         items: [
           { text: 'Overview of Forma', link: '/learn/overview-of-forma' },
           { text: 'Chain Info', link: '/learn/chain-info' },
-          { text: 'Ecosystem', link: '/learn/ecosystem' },
-
         ]
       },
       {
