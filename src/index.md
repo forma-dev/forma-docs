@@ -5,21 +5,28 @@ layout: home
 hero:
   name: "Forma"
   text: "Cultural hub for the modular ecosystem"
-  tagline: Forma is fully EVM compatible and the first soverign rollup built on Astria with Celestia underneath. 
+  tagline: Forma is fully EVM compatible and the first soverign rollup. Built on Astria with Celestia underneath. 
   actions:
     - theme: brand
-      text: Learn
+      text: Overview
       link: /learn/overview-of-forma
     - theme: alt
       text: Get Started
       link: /learn/getting-started
 
 features:
-  - title: Get Started
+  - title: Overview
     details: The basics to get you building on Forma.
-  - title: Forma Overview
-    details: Forma is a EVM compatible layer 2 that enables users to submit transactions cheapily and securily. 
+    link: /learn/overview-of-forma
   - title: Developers
     details: Create, integrate and build your own project on Forma.
+    link: /build/getting-started
+  - title: Bridge
+    details: One-click bridge TIA from Celestia Mainnet to Forma.
+    link: /bridge/bridge-overview
+  - title: FAQ
+    details: Our most commonly asked questions and answers.
+    link: /faq
+
 ---
 

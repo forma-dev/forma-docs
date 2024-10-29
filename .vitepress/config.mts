@@ -16,7 +16,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Quick Start', link: '/quick-start' }
+      { text: 'Overview', link: '/learn/overview-of-forma' },
+      { text: 'Developers', link: '/build/get-started' },
+      { text: 'Bridge', link: '/bridge/bridge-overview' },
+      { text: 'FAQ', link: '/faq' }
     ],
     sidebar: [
       {
@@ -28,7 +31,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Build on Forma',
+        text: 'Developers',
         collapsed: true,
         items: [
           { text: 'Getting Started', link: '/build/getting-started' },
@@ -41,6 +44,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Overview', link: '/bridge/bridge-overview' },
+          { text: 'Bridge Info', link: '/bridge/bridge-info' },
           { text: 'How to Use', link: '/bridge/how-to-use' },
         ]
       },

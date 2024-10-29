@@ -1,0 +1,18 @@
+# Bridge Info
+
+## Mainnet Bridge
+| Name | Details |
+|---|---|
+| Bridge |    https://bridge.forma.art/                 
+| Gas token |    TIA     
+
+
+## Testnet Bridge
+| Name | Details |
+|---|---|
+| Bridge |    https://bridge.sketchpad-1.forma.art/                 
+| Gas token |    Mocha TIA     
+
+
+## Testnet TIA
+Forma's testnet utilizes Celestia mocha testnet TIA. To get mocha TIA, follow the instructions found under the Testnet TIA section [here.](/learn/chain-info#testnet-tia)

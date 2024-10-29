@@ -1,4 +1,4 @@
-# Runtime API Examples
+# Forma Bridge Overview
 
 The Forma bridge allows users to connect their wallet and one-click bridge over TIA from Celestia Mainnet to Forma. 
 

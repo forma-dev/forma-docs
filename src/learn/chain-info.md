@@ -1,8 +1,17 @@
 # Chain Info
 
-| RPC Server Address | ChainID | Currency |
-|---|---|---|
-| https://rpc.forma.art |    984122                   |   TIA  |
+| Name | Details |
+|---|---|
+| RPC Server Address |    https://rpc.forma.art                   
+| Minimum Gas Fee |    18 nTIA    
+| ChainID         |    984122        
+
+| Name | Details |
+|---|---|
+| RPC Server Address |    https://rpc.sketchpad-1.forma.art                   
+| Minimum Gas Fee |    18 nTIA     
+| ChainID         |    984123    
+
 
 ## Connecting to Forma
 
@@ -10,4 +19,7 @@ On [Modularium](https://modularium.art/) or the [Bridge](https://bridge.forma.ar
 
 If not, you can manually add the network to your wallet. Forma network details can be found on [Chainlist](https://chainlist.org/chain/984122) or above under Chain Info.
 
-Additionally, Leap Wallet now supports Forma chain natively so no need to add the network manually. Just download Leap Wallet, head over to the “switch chain” button, and search Forma to access your Forma assets.
+## Testnet TIA
+Forma's testnet utilizes Celestia mocha testnet TIA. To get mocha TIA, you can utilize the mocha faucet on the [Celestia Discord](https://discord.com/channels/638338779505229824/978986404640079873).
+
+Once you have testnet TIA in your wallet, you can use the [sketchpad bridge](https://bridge.sketchpad-1.forma.art/) to bridge over your testnet TIA to Forma's testnet.
