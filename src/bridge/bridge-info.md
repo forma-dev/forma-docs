@@ -3,14 +3,16 @@
 ## Mainnet Bridge
 | Name | Details |
 |---|---|
-| Bridge |    https://bridge.forma.art/                 
+| Bridge |    https://bridge.forma.art/    
+| Blockchain Explorer |   https://explorer.forma.art/              
 | Gas token |    TIA     
 
 
 ## Testnet Bridge
 | Name | Details |
 |---|---|
-| Bridge |    https://bridge.sketchpad-1.forma.art/                 
+| Bridge |    https://bridge.sketchpad-1.forma.art/   
+| Blockchain Explorer |    https://explorer.sketchpad-1.forma.art/                 
 | Gas token |    Mocha TIA     
 
 

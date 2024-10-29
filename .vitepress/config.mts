@@ -7,6 +7,9 @@ export default defineConfig({
   description: "Cultural hub for the modular ecosystem",
   appearance: 'force-dark',
   cleanUrls: true,
+  head: [
+    ['link', { rel: 'icon', href: 'logo/favicon.png' }]
+  ],
   themeConfig: {
     logo: {
       light: '../logo/logo.svg',
@@ -17,7 +20,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Overview', link: '/learn/overview-of-forma' },
-      { text: 'Developers', link: '/build/get-started' },
+      { text: 'Developers', link: 'build/getting-started' },
       { text: 'Bridge', link: '/bridge/bridge-overview' },
       { text: 'FAQ', link: '/faq' }
     ],

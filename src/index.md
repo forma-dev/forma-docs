@@ -12,7 +12,7 @@ hero:
       link: /learn/overview-of-forma
     - theme: alt
       text: Get Started
-      link: /learn/getting-started
+      link: /build/getting-started
 
 features:
   - title: Overview

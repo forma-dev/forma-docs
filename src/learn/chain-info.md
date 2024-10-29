@@ -3,14 +3,16 @@
 | Name | Details |
 |---|---|
 | RPC Server Address |    https://rpc.forma.art          
-| Blockchain Explorer |   https://explorer.forma.art/         
+| Blockchain Explorer |   https://explorer.forma.art/   
+| Bridge |    https://bridge.forma.art/        
 | Minimum Gas Fee |    18 nTIA    
 | ChainID         |    984122        
 
 | Name | Details |
 |---|---|
 | RPC Server Address |    https://rpc.sketchpad-1.forma.art        
-| RPC Server Address |    https://explorer.sketchpad-1.forma.art/             
+| Blockchain Explorer |    https://explorer.sketchpad-1.forma.art/   
+| Bridge |    https://bridge.sketchpad-1.forma.art/             
 | Minimum Gas Fee |    18 nTIA     
 | ChainID         |    984123    
 
