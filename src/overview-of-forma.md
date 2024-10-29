@@ -1,4 +1,4 @@
-# Introduction
+# Overview
 
 Forma is the first live sovereign rollup. It is powered by the Astria Stack, with Celestia underneath. Forma is EVM compatible, decentralized and permissionless, and anyone can use it for building onchain.
 

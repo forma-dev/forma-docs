@@ -24,7 +24,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Overview of Forma', link: '/overview-of-forma' },
-          { text: 'Ecosystem', link: '/api-examples' },
+          { text: 'Ecosystem', link: '/ecosystem' },
         ]
       },
       {
@@ -32,9 +32,8 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Getting Started', link: '/getting-started' },
-          { text: 'Deployment', link: '/build/deployment' },
-          { text: 'Integration', link: '/build/integration' },
-          { text: 'Tutorials', link: '/api-examples' },
+          { text: 'Deployment', link: '/deployment' },
+          { text: 'Integration', link: '/integration' },
         ]
       },
       {
