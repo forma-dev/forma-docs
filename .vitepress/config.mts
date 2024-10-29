@@ -23,25 +23,25 @@ export default defineConfig({
         text: 'Learn',
         collapsed: true,
         items: [
-          { text: 'Overview of Forma', link: '/overview-of-forma' },
-          { text: 'Ecosystem', link: '/ecosystem' },
+          { text: 'Overview of Forma', link: '/learn/overview-of-forma' },
+          { text: 'Ecosystem', link: '/learn/ecosystem' },
         ]
       },
       {
         text: 'Build on Forma',
         collapsed: true,
         items: [
-          { text: 'Getting Started', link: '/getting-started' },
-          { text: 'Deployment', link: '/deployment' },
-          { text: 'Integration', link: '/integration' },
+          { text: 'Getting Started', link: '/build/getting-started' },
+          { text: 'Deployment', link: '/build/deployment' },
+          { text: 'Integration', link: '/build/integration' },
         ]
       },
       {
         text: 'Forma Bridge',
         collapsed: true,
         items: [
-          { text: 'Overview', link: '/bridge-overview' },
-          { text: 'How to Use', link: '/how-to-use' },
+          { text: 'Overview', link: '/bridge/bridge-overview' },
+          { text: 'How to Use', link: '/bridge/how-to-use' },
         ]
       },
       {

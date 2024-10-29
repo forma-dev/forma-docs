@@ -2,7 +2,7 @@
 
 The Forma bridge allows users to connect their wallet and one-click bridge over TIA from Celestia Mainnet to Forma. 
 
-![Bridge Explanation](public/logo/bridge%20image.png)
+![Bridge Explanation](/logo/bridge%20image.png)
 
 On the backend, TIA is bridged from Celestia to Stride via an IBC transfer. TIA on Stride is then bridged to Forma using Hyperlane in the following order after landing on Stride:
 
