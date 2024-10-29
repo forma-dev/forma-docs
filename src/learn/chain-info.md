@@ -1,4 +1,4 @@
-# Connect to Forma
+# Chain Info
 
 When you head to [Modularium](https://modularium.art/) or the [Bridge](https://bridge.forma.art/), click "Connect Wallet" and you should automatically see a prompt to add the Forma network.
 

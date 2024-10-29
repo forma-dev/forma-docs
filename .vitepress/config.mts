@@ -24,7 +24,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Overview of Forma', link: '/learn/overview-of-forma' },
-          { text: 'Connect to Forma', link: '/learn/connect-to-forma' },
+          { text: 'Chain Info', link: '/learn/chain-info' },
           { text: 'Ecosystem', link: '/learn/ecosystem' },
 
         ]
