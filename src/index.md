@@ -11,8 +11,8 @@ hero:
       text: Learn
       link: /overview-of-forma
     - theme: alt
-      text: Overview
-      link: /overview
+      text: Build
+      link: /build
 
 features:
   - title: Get Started
