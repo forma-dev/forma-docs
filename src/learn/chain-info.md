@@ -2,13 +2,15 @@
 
 | Name | Details |
 |---|---|
-| RPC Server Address |    https://rpc.forma.art                   
+| RPC Server Address |    https://rpc.forma.art          
+| Blockchain Explorer |   https://explorer.forma.art/         
 | Minimum Gas Fee |    18 nTIA    
 | ChainID         |    984122        
 
 | Name | Details |
 |---|---|
-| RPC Server Address |    https://rpc.sketchpad-1.forma.art                   
+| RPC Server Address |    https://rpc.sketchpad-1.forma.art        
+| RPC Server Address |    https://explorer.sketchpad-1.forma.art/             
 | Minimum Gas Fee |    18 nTIA     
 | ChainID         |    984123    
 
@@ -23,3 +25,7 @@ If not, you can manually add the network to your wallet. Forma network details c
 Forma's testnet utilizes Celestia mocha testnet TIA. To get mocha TIA, you can utilize the mocha faucet on the [Celestia Discord](https://discord.com/channels/638338779505229824/978986404640079873).
 
 Once you have testnet TIA in your wallet, you can use the [sketchpad bridge](https://bridge.sketchpad-1.forma.art/) to bridge over your testnet TIA to Forma's testnet.
+
+## Alternate Blockchain Explorer Options
+- [On Dora](https://www.ondora.xyz/network/forma)
+

@@ -10,10 +10,4 @@ This how to is for anyone who want to "deposit" TIA from Celestia to Forma, or "
 
 Now your funds are deposited on Forma!
 
-## Alternate Bridge Options
-- https://relay.link/forma
-- https://bridge.stride.zone/
-- https://swapfast.app/
-- https://go.skip.build/
-
 

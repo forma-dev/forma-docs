@@ -16,3 +16,10 @@
 
 ## Testnet TIA
 Forma's testnet utilizes Celestia mocha testnet TIA. To get mocha TIA, follow the instructions found under the Testnet TIA section [here.](/learn/chain-info#testnet-tia)
+
+## Alternate Bridge Options
+- [Relay](https://relay.link/forma)
+- [Stride](https://bridge.stride.zone/)
+- [Leap's Swapfast](https://swapfast.app/)
+- [Skip](https://go.skip.build/)
+

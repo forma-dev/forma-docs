@@ -50,7 +50,7 @@ export default defineConfig({
       },
       {
         items: [
-          { text: 'FAQ', link: '/build/getting-started' },
+          { text: 'FAQ', link: '/faq' },
         ]
       },
     ],
