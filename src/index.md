@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Forma"
   text: "Cultural hub for the modular ecosystem"
-  tagline: Forma is fully EVM compatible and the first soverign rollup. Built on Astria with Celestia underneath. 
+  tagline: Forma is fully EVM compatible and the first sovereign rollup. Built on Astria with Celestia underneath.
   actions:
     - theme: brand
       text: Overview
