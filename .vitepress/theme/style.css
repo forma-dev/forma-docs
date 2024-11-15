@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Jaldi:wght@400;700&display=swap');
+
 /**
  * Customize default theme styling by overriding CSS variables:
  * https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css
@@ -139,9 +141,25 @@
   --vp-c-bg-alt: #161618;
   --vp-c-bg-elv: #202127;
   --vp-c-bg-soft: rgb(14, 14, 14);
+
+  --vp-c-text-1: #fff;
+  --vp-c-text-2: #8c8d8f;
 }
 
-.VPFeature {
+.VPFeature, .VPLink {
   border-radius: 0 !important;
   /* border-color: #fff !important; */
+}
+
+.VPFeature:hover, .VPLink:hover {
+  border-color: #fff !important;
+}
+
+.VPHero .text {
+  color: #fff !important;
+}
+
+:root {
+  --vp-font-family-base: 'IBM Plex Mono', monospace;
+  --vp-font-family-mono: 'IBM Plex Mono', monospace;
 }

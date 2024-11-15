@@ -1,5 +1,7 @@
 # Chain Info
 
+## Forma Mainnet
+
 | Name | Details |
 |---|---|
 | RPC Server Address |    https://rpc.forma.art          
@@ -8,6 +10,8 @@
 | Minimum Gas Fee |    18 nTIA    
 | ChainID         |    984122        
 
+## Forma Testnet (Sketchpad-1)
+
 | Name | Details |
 |---|---|
 | RPC Server Address |    https://rpc.sketchpad-1.forma.art        
@@ -15,7 +19,6 @@
 | Bridge |    https://bridge.sketchpad-1.forma.art/             
 | Minimum Gas Fee |    18 nTIA     
 | ChainID         |    984123    
-
 
 ## Connecting to Forma
 

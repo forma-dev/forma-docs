@@ -58,7 +58,13 @@ export default defineConfig({
       },
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { icon: 'github', link: 'https://github.com/forma-dev' },
+      { icon: 'x', link: 'https://x.com/Formachain' },
+      { icon: 'discord', link: 'https://discord.gg/cfHDU8k7FQ' },
+    ],
+    footer: {
+      message: 'Built on Astria with Celestia underneath. ✨',
+      copyright: 'Copyright © 2024 Cocode Labs'
+    }
   }
 })
