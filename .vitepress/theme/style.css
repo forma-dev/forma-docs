@@ -159,6 +159,10 @@
   color: #fff !important;
 }
 
+.VPButton {
+  border-radius: 0 !important;
+}
+
 :root {
   --vp-font-family-base: 'IBM Plex Mono', monospace;
   --vp-font-family-mono: 'IBM Plex Mono', monospace;
