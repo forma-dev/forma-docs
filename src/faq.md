@@ -1,4 +1,10 @@
+---
+aside: false
+---
+
 # FAQ
+
+[[toc]]
 
 ## What is Forma?
 Forma is a blockchain purpose-built for onchain creations, built on Astria with Celestia underneath. We have implemented custom EVM precompiles that imbue NFTs with expressivity and enable novel use cases.
