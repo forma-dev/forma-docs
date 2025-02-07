@@ -65,6 +65,8 @@ export default defineConfig({
     footer: {
       message: 'Built on Astria with Celestia underneath. ✨',
       copyright: 'Copyright © 2024 Cocode Labs'
-    }
+    },
+    // ✅ Change "On this page" to "Sections"
+    outlineTitle: "Sections"
   }
 })
