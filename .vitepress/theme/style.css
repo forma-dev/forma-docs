@@ -114,6 +114,10 @@
   --vp-c-text-2: #8c8d8f;
 }
 
+html, body {
+  font-size: 14px;
+}
+
 .VPFeature, .VPLink {
   border-radius: 0 !important;
 }
@@ -134,4 +138,3 @@
   --vp-font-family-base: 'IBM Plex Mono', monospace;
   --vp-font-family-mono: 'IBM Plex Mono', monospace;
 }
-
