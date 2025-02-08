@@ -4,7 +4,7 @@ This quickstart is for web developers who want to start building decentralized a
 
 ## Forma Workshop 
 
-Below our resident wizard, Joshua Dechant, demos Forma’s SDK, deploys an ERC-721 contract, and builds a simple NFT minting front-end. This video was used for the ongoing Mammothon hackathon hosted by Celestia but will still be valuable to those looking to build. 
+Below our resident wizard, [codecrafting](https://x.com/mycodecrafting), demos Forma's SDK, deploys an ERC-721 contract, and builds a simple NFT minting front-end. This video was used for the ongoing Mammothon hackathon hosted by Celestia but will still be valuable to those looking to build. 
 
 <style>
 .responsive-video {
@@ -33,6 +33,6 @@ Below our resident wizard, Joshua Dechant, demos Forma’s SDK, deploys an ERC-7
     </iframe>
 </div>
 
-
+---
 
 🚧 This rest of this page is under construction 🚧

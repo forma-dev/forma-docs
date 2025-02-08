@@ -40,6 +40,7 @@ export default defineConfig({
           { text: 'Getting Started', link: '/build/getting-started' },
           { text: 'Deployment', link: '/build/deployment' },
           { text: 'Integration', link: '/build/integration' },
+          { text: 'Code Repositories', link: '/build/code-repositories' },
         ]
       },
       {
@@ -64,7 +65,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'Built on Astria with Celestia underneath. ✨',
-      copyright: 'Copyright © 2024 Cocode Labs'
+      copyright: 'Copyright © 2025 Cocode Labs'
     },
     // ✅ Change "On this page" to "Sections"
     outlineTitle: "Sections"
