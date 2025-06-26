@@ -119,7 +119,7 @@ body {
 .VPFeature,
 .VPLink,
 .VPButton {
-  border-radius: 0 !important;
+  border-radius: 5px !important;
 }
 
 .VPFeature:hover,
