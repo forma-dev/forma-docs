@@ -8,12 +8,12 @@ export default defineConfig({
   appearance: 'force-dark',
   cleanUrls: true,
   head: [
-    ['link', { rel: 'icon', href: 'logo/favicon.png' }]
-  ],
+    ['link', { rel: 'icon', href: '/logo/favicon.png' }]
+  ],  
   themeConfig: {
     logo: {
-      light: '../logo/logo.svg',
-      dark: '/logo/logo-dark.svg',
+      light: '/logo/logo.svg',
+      dark: '/logo/logo.svg',
     },
     siteTitle: false,
     // https://vitepress.dev/reference/default-theme-config
